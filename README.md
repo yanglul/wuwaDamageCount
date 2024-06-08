@@ -2,10 +2,18 @@
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Recommended IDE Setup
+## Example
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+¼ÆËãÂß¼­²Î¿¼ https://www.bilibili.com/video/BV1VZ42147px
+![image](https://github.com/yanglul/wuwaDamageCount/blob/main/1.png)
+![image](https://github.com/yanglul/wuwaDamageCount/blob/main/2.png)
+![image](https://github.com/yanglul/wuwaDamageCount/blob/main/3.png)
+![image](https://github.com/yanglul/wuwaDamageCount/blob/main/4.png)
+![image](https://github.com/yanglul/wuwaDamageCount/blob/main/5.png)
 
+ 
+ 
+ 
 ## Type Support For `.vue` Imports in TS
 
 Since TypeScript cannot handle type information for `.vue` imports, they are shimmed to be a generic Vue component type by default. In most cases this is fine if you don't really care about component prop types outside of templates. However, if you wish to get actual prop types in `.vue` imports (for example to get props validation when using manual `h(...)` calls), you can enable Volar's Take Over mode by following these steps:
